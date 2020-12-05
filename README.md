@@ -1,6 +1,6 @@
 ![template_s](https://github.com/rumxyz/rumxyz/blob/main/IMG-20201204-WA0322.jpg)
 <h4 align="center">
-   jangan lupa follow tekan bintang 💅💅
+   ♟DAFTAR SCRIPT♟
 </h4 aling="center">
  
 ![github stats](https://github-readme-stats.vercel.app/api?username=rumxyz&show_icons=true&theme=dark)
