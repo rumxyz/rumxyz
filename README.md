@@ -16,4 +16,4 @@
 * [<img alt="rumxyz's Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/6285695037877?text=Asalamualaikum+ganteng)<br />
 * [<img alt="rumxyz's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/_rumxyz)<br />
 
-![template_s](https://user-images.githubusercontent.com/52023076/93980625-b4ff2180-fd33-11ea-873d-9570cbdd30e9.gif)
+![template_s](https://github.com/rumxyz/rumxyz/blob/main/FB_IMG_16069122161835941.jpg)
