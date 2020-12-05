@@ -3,7 +3,7 @@
    jangan lupa follow tekan bintang 💅💅
 </h4 aling="center">
  
-![github stats](https://github-readme-stats.vercel.app/api?username=Yayan-XD&show_icons=true&theme=dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=rumxyz&show_icons=true&theme=dark)
 <a href="https://github.com/rumxyz/hekel"><img title="hekel" src="https://github-readme-stats.vercel.app/api/pin/?username=rumxyz&repo=hekel&theme=vision-friendly-dark"></a>
 <a href="https://github.com/rumxyz/DILZ-R"><img title="DILZ-R" src="https://github-readme-stats.vercel.app/api/pin/?username=rumxyz&repo=DILZ-R&theme=vision-friendly-dark"></a>
 <a href="https://github.com/rumxyz/LOCK-R"><img title="LOCK-R" src="https://github-readme-stats.vercel.app/api/pin/?username=rumxyz&repo=LOCK-R&theme=vision-friendly-dark"></a>
