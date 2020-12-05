@@ -13,7 +13,7 @@
 ### MY SOCIAL MEDIA
 * [<img alt="rumxyz's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/rumxyz/)<br />
 * [<img alt="rumxyz's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Facebook</b>](https://www.facebook.com/RUMXYZ5X)<br />
-* [<img alt="rumxyz's Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/6285603036683?text=Asalamualaikum+ganteng)<br />
+* [<img alt="rumxyz's Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/6285695037877?text=Asalamualaikum+ganteng)<br />
 * [<img alt="rumxyz's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/_rumxyz)<br />
 
 ![template_s](https://user-images.githubusercontent.com/52023076/93980625-b4ff2180-fd33-11ea-873d-9570cbdd30e9.gif)
