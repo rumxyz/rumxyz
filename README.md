@@ -1,4 +1,4 @@
-### SCRIPT KHUSUS ORANG MUSLIM, KRISTEN GABOLEH
+### SCRIPT KHUSUS ORANG MUSLIM, KAFIR GA BOLEH
 ![template_s](https://github.com/rumxyz/rumxyz/blob/main/IMG-20201204-WA0322.jpg)
 <h4 align="center">
    ♟DAFTAR SCRIPT♟
