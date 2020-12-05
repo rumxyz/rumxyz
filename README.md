@@ -1,4 +1,4 @@
-![template_s](https://github.com/rumxyz/rumxyz/blob/main/FB_IMG_1607154792607.jpg)
+![template_s](https://github.com/rumxyz/rumxyz/blob/main/20201205_184726.png)
 <h4 align="center">
    ♟DAFTAR SCRIPT♟
 </h4 aling="center">
