@@ -11,10 +11,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=storiku&layout=compact" alt="Top language">
 
-### MY SOCIAL MEDIA
-* [<img alt="rumxyz's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/rumxyz/)<br />
-* [<img alt="rumxyz's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Facebook</b>](https://www.facebook.com/RUMXYZ5X)<br />
-* [<img alt="rumxyz's Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/6285695037877?text=Asalamualaikum+ganteng)<br />
-* [<img alt="rumxyz's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/_rumxyz)<br />
-
+## Kalau Mau Nanya Nanya chat gw aja
+[![](https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=red&labelColor=white)](https://wa.me/6285695037877?text=Asalamualaikum+Cantik)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/RUMXYZ5X)
+[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/_rumxyz/)
 ![template_s](https://github.com/rumxyz/rumxyz/blob/main/FB_IMG_16069122161835941.jpg)
