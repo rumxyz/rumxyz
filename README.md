@@ -12,7 +12,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=storiku&layout=compact" alt="Top language">
 
 ## Kalau Mau Nanya Nanya chat gw aja
+<details open>
+  <summary><strong>Contact Me</strong></summary>
+
 [![](https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=red&labelColor=white)](https://wa.me/6285695037877?text=Asalamualaikum+Cantik)
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/RUMXYZ5X)
 [![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/_rumxyz/)
+
+</details>
 ![template_s](https://github.com/rumxyz/rumxyz/blob/main/FB_IMG_16069122161835941.jpg)
