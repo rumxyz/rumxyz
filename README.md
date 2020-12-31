@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=storiku&layout=compact" alt="Top language">
 
 ## Kalau Mau Nanya Nanya chat gw aja
-<details open>
+<details close>
   <summary><strong>Contact Me</strong></summary>
 
 [![](https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=red&labelColor=white)](https://wa.me/6285695037877?text=Asalamualaikum+Cantik)
