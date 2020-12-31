@@ -20,4 +20,4 @@
 [![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/_rumxyz/)
 
 </details>
-![template_s](https://github.com/rumxyz/rumxyz/blob/main/FB_IMG_16069122161835941.jpg)
+[![template_s](https://github.com/rumxyz/rumxyz/blob/main/FB_IMG_16069122161835941.jpg)
