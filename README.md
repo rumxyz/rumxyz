@@ -5,9 +5,9 @@
 </h4 aling="center">
  
 ![github stats](https://github-readme-stats.vercel.app/api?username=rumxyz&show_icons=true&theme=blue)
-<a href="https://github.com/rumxyz/hekel"><img title="hekel" src="https://github-readme-stats.vercel.app/api/pin/?username=rumxyz&repo=hekel&theme=vision-friendly-blue"></a>
-<a href="https://github.com/rumxyz/DILZ-R"><img title="DILZ-R" src="https://github-readme-stats.vercel.app/api/pin/?username=rumxyz&repo=DILZ-R&theme=vision-friendly-blue"></a>
-<a href="https://github.com/rumxyz/LOCK-R"><img title="LOCK-R" src="https://github-readme-stats.vercel.app/api/pin/?username=rumxyz&repo=LOCK-R&theme=vision-friendly-blue"></a>
+<a href="https://github.com/rumxyz/hekel"><img title="hekel" src="https://github-readme-stats.vercel.app/api/pin/?username=rumxyz&repo=hekel&theme=vision-friendly-black"></a>
+<a href="https://github.com/rumxyz/DILZ-R"><img title="DILZ-R" src="https://github-readme-stats.vercel.app/api/pin/?username=rumxyz&repo=DILZ-R&theme=vision-friendly-white"></a>
+<a href="https://github.com/rumxyz/LOCK-R"><img title="LOCK-R" src="https://github-readme-stats.vercel.app/api/pin/?username=rumxyz&repo=LOCK-R&theme=vision-friendly-yellow"></a>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=storiku&layout=compact" alt="Top language">
 
