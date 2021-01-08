@@ -15,9 +15,9 @@
 <details close>
   <summary><strong>Contact Me</strong></summary>
 
-[![](https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=red&labelColor=white)](https://wa.me/6285695037877?text=Asalamualaikum+Cantik)
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/RUMXYZ5X)
-[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/_rumxyz/)
+[![](https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=blue&labelColor=black)](https://wa.me/6285695037877?text=Asalamualaikum+Cantik)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://www.facebook.com/RUMXYZ5X)
+[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=blue&labelColor=black)](https://www.instagram.com/_rumxyz/)
 
 </details>
 
